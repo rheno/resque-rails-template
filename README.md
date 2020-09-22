@@ -1,3 +1,4 @@
+# DEPRECATED
 # Rails Resque Template
 
 Step 1 :
